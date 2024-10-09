@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:nba_app/services/team_service.dart';
 import 'package:nba_app/widgets/team_card.dart';
 
-class HomeScreen extends StatelessWidget {
+class TeamListScreen extends StatelessWidget {
   final teamService = TeamService();
-  HomeScreen({super.key});
+  TeamListScreen({super.key});
   @override
   Widget build(BuildContext context) {
     return Scaffold(
