@@ -68,6 +68,6 @@ This Flutter app displays a list of NBA teams, including their abbreviation, ful
 
 - Add team logos using another API (e.g., the [API-SPORTS API](https://api-sports.io/)).
 
-## Acknowlegdedment
+## Acknowlegdement
 
 This project is based on [FULL Flutter Masterclass:Beginner to Pro ] by [Mitch Koko]. You can find the original tutorial [here](https://youtu.be/TclK5gNM_PM?si=34oyeNUEi0zszOsF).
